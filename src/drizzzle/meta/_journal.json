@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1737623673695,
+      "tag": "0000_warm_fabian_cortez",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1737624011638,
+      "tag": "0001_public_mulholland_black",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1737624107299,
+      "tag": "0002_brief_dreadnoughts",
+      "breakpoints": true
+    }
+  ]
+}
