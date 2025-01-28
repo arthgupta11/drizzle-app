@@ -32,6 +32,7 @@ export const UserTypeDefs = gql`
 
  type Query{
     getUsers: [User]
+    getUserById ( id : Int) : [User]
   }
 
   type Mutation { 
